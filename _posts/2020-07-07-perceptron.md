@@ -1,5 +1,5 @@
 ---
-title: "Exploratory Data Analysis Project"
+title: "Sample Post"
 date: 2020-07-07
 tags: [exploratory data analysis, data science, messy data]
 header:
