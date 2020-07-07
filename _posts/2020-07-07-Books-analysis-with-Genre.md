@@ -987,7 +987,7 @@ df['num_pages'].hist() # Distribution of number of pages based on count.
 
 
 
-![png](Books%20analysis%20with%20Genre_files/Books%20analysis%20with%20Genre_45_1.png)
+![png](/images/Books%20analysis%20with%20Genre_45_1.png)
 
 
 
@@ -1004,7 +1004,7 @@ df['ratings_count'].hist() # Distribution of number of ratings based on count.
 
 
 
-![png](Books%20analysis%20with%20Genre_files/Books%20analysis%20with%20Genre_46_1.png)
+![png](/images/Books%20analysis%20with%20Genre_46_1.png)
 
 
 
@@ -1021,7 +1021,7 @@ df['text_reviews_count'].hist() # Distribution of number of text reviews based o
 
 
 
-![png](Books%20analysis%20with%20Genre_files/Books%20analysis%20with%20Genre_47_1.png)
+![png](/images/Books%20analysis%20with%20Genre_47_1.png)
 
 
 
@@ -1045,7 +1045,7 @@ plt.xticks(rotation=60,horizontalalignment='right')
 
 
 
-![png](Books%20analysis%20with%20Genre_files/Books%20analysis%20with%20Genre_48_1.png)
+![png](/images/Books%20analysis%20with%20Genre_48_1.png)
 
 
 In the above graph we can see that there are a lot of sparse classes (values < 10), so we'll group them together as OTHER and then view this graph again.
@@ -1078,7 +1078,7 @@ plt.xticks(rotation=60,horizontalalignment='right')
 
 
 
-![png](Books%20analysis%20with%20Genre_files/Books%20analysis%20with%20Genre_52_1.png)
+![png](/images/Books%20analysis%20with%20Genre_52_1.png)
 
 
 Looks much better! So, the most number of books are 'Science Fiction' as Genre_1.
@@ -1106,7 +1106,7 @@ plt.xticks(rotation=60,horizontalalignment='right')
 
 
 
-![png](Books%20analysis%20with%20Genre_files/Books%20analysis%20with%20Genre_56_1.png)
+![png](/images/Books%20analysis%20with%20Genre_56_1.png)
 
 
 
@@ -1136,7 +1136,7 @@ plt.xticks(rotation=60,horizontalalignment='right')
 
 
 
-![png](Books%20analysis%20with%20Genre_files/Books%20analysis%20with%20Genre_59_1.png)
+![png](/images/Books%20analysis%20with%20Genre_59_1.png)
 
 
 
@@ -1158,7 +1158,7 @@ plt.xticks(rotation=60,horizontalalignment='right')
 
 
 
-![png](Books%20analysis%20with%20Genre_files/Books%20analysis%20with%20Genre_60_1.png)
+![png](/images/Books%20analysis%20with%20Genre_60_1.png)
 
 
 
@@ -1188,7 +1188,7 @@ plt.xticks(rotation=60,horizontalalignment='right')
 
 
 
-![png](Books%20analysis%20with%20Genre_files/Books%20analysis%20with%20Genre_63_1.png)
+![png](/images/Books%20analysis%20with%20Genre_63_1.png)
 
 
 
@@ -1205,7 +1205,7 @@ sns.countplot(x='language_code',data=df)
 
 
 
-![png](Books%20analysis%20with%20Genre_files/Books%20analysis%20with%20Genre_64_1.png)
+![png](/images/Books%20analysis%20with%20Genre_64_1.png)
 
 
 ---------------------
@@ -1231,7 +1231,7 @@ sns.countplot(x='Group_genre',data=df)
 
 
 
-![png](Books%20analysis%20with%20Genre_files/Books%20analysis%20with%20Genre_68_1.png)
+![png](/images/Books%20analysis%20with%20Genre_68_1.png)
 
 
 
@@ -1263,7 +1263,7 @@ plt.xticks(rotation=60,horizontalalignment='right')
 
 
 
-![png](Books%20analysis%20with%20Genre_files/Books%20analysis%20with%20Genre_71_1.png)
+![png](/images/Books%20analysis%20with%20Genre_71_1.png)
 
 
 It wasn't very useful I guess, but I am just learning! :)
@@ -1304,7 +1304,7 @@ plt.xticks(rotation=60,horizontalalignment='right')
 
 
 
-![png](Books%20analysis%20with%20Genre_files/Books%20analysis%20with%20Genre_77_1.png)
+![png](/images/Books%20analysis%20with%20Genre_77_1.png)
 
 
 
@@ -1524,7 +1524,7 @@ byyear['bookID'].plot()
 
 
 
-![png](Books%20analysis%20with%20Genre_files/Books%20analysis%20with%20Genre_79_1.png)
+![png](/images/Books%20analysis%20with%20Genre_79_1.png)
 
 
 
@@ -1543,7 +1543,7 @@ sns.countplot(x='month',data=byyear)
 
 
 
-![png](Books%20analysis%20with%20Genre_files/Books%20analysis%20with%20Genre_80_1.png)
+![png](/images/Books%20analysis%20with%20Genre_80_1.png)
 
 
 
@@ -1764,7 +1764,7 @@ sns.heatmap(monthyear,cmap='coolwarm')
 
 
 
-![png](Books%20analysis%20with%20Genre_files/Books%20analysis%20with%20Genre_82_1.png)
+![png](/images/Books%20analysis%20with%20Genre_82_1.png)
 
 
 
@@ -1785,7 +1785,7 @@ plt.xticks(rotation=60,horizontalalignment='right')
 
 
 
-![png](Books%20analysis%20with%20Genre_files/Books%20analysis%20with%20Genre_83_1.png)
+![png](/images/Books%20analysis%20with%20Genre_83_1.png)
 
 
 
@@ -1806,7 +1806,7 @@ plt.xticks(rotation=60,horizontalalignment='right')
 
 
 
-![png](Books%20analysis%20with%20Genre_files/Books%20analysis%20with%20Genre_84_1.png)
+![png](/images/Books%20analysis%20with%20Genre_84_1.png)
 
 
 
@@ -1827,7 +1827,7 @@ plt.xticks(rotation=60,horizontalalignment='right')
 
 
 
-![png](Books%20analysis%20with%20Genre_files/Books%20analysis%20with%20Genre_85_1.png)
+![png](/images/Books%20analysis%20with%20Genre_85_1.png)
 
 
 
@@ -1845,7 +1845,7 @@ sns.heatmap(df.corr(),cmap='viridis')
 
 
 
-![png](Books%20analysis%20with%20Genre_files/Books%20analysis%20with%20Genre_86_1.png)
+![png](/images/Books%20analysis%20with%20Genre_86_1.png)
 
 
 ------------------------------
