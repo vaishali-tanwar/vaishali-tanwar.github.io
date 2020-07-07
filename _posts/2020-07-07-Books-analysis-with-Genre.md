@@ -970,7 +970,7 @@ df['average_rating'].hist() # Distribution of average rating based on count.
 
 
 
-![png](Books%20analysis%20with%20Genre_files/Books%20analysis%20with%20Genre_44_1.png)
+![png](images/Books%20analysis%20with%20Genre_44_1.png)
 
 
 
