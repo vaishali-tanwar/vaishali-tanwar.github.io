@@ -3,7 +3,7 @@ title: "Exploratory Data Analysis Project"
 date: 2020-07-07
 tags: [exploratory data analysis, data science, messy data]
 header:
-  image: "/images/perceptron/percept.png"
+  image: "/images/perceptron/percept.jpg"
 excerpt: "Exploratory Data Analysis, Data Science, Messy Data"
 mathjax: "true"
 ---
