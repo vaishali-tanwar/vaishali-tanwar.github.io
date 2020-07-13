@@ -7,7 +7,7 @@ excerpt: "Exploratory Data Analysis, Data Science, Messy Data"
 mathjax: "true"
 ---
 
-![png](/images/perceptron/percept.png)
+![png](/images/perceptron/percep.png)
 
 
 ```python
